@@ -1,0 +1,20 @@
+{
+    "title" : "Quiz Questions",
+    "description" : "These are some quiz questions",
+    "QuizQuestions" : [
+        {
+            "id" : "1" , 
+            "Question" : "What is 1+1? (Enter in numeric form)",
+            "Answer" : "2"
+        },
+        {
+            "id" : "2" ,
+            "Question" : "What is the capital of India?",
+            "Answer" : "New Delhi"
+        }
+    ],
+    "SampleArray" : [
+        10,
+        20
+    ]
+}
